@@ -13,7 +13,7 @@ This is the same as running `kubectl logs -f <pod>` but for multiple pods.
 The following checklist details which flags/options are currently supported:
 
 - [x] `-h, --help`
-- [ ] `-c, --container`
+- [x] `-c, --container`
 - [x] `-t, --context`
 - [x] `-l, --selector`
 - [x] `-n, --namespace`
